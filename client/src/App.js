@@ -8,7 +8,8 @@ import logo from "./spacex-logo.png";
 import './App.css';
 
 const client = new ApolloClient({
-  uri: 'http://localhost:5000/graphql'
+  // The URI for Heroku deployment
+  uri: '/graphql'
 });
 
 class App extends Component {
