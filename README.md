@@ -129,6 +129,8 @@ heroku open
 * [JavaScript]
 * [Node.js]
 * [React.js]
+* [GraphQL]
+* [Apollo]
 * [Atom - Text Editor]
 
 ## Authors
